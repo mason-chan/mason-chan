@@ -1,4 +1,13 @@
-### Hi there 👋❕ My name is Mason<sup>a.k.a mctekno a.k.a machkeys</sup> and I am an aspiring web developer!
+## Hi there 👋❕ My name is Mason and I am an aspiring web developer!
+
+My interest in coding branched from a particular hobby that I currently enjoy (you may be able to guess it from my projects 👀). Growing up with an artistical mindset and the need for aesthetics and visuals, I've worked on many things including art, technical drawings, and 3D modeling before my coding journey. I enjoy typing up minimalistic website designs and I'm interested in pursuing a career in web development.
+
+### Tech I like to use
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+
+
 
 <!--
 **mctekno/mctekno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
