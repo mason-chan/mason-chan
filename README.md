@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋❕ My name is Mason<sub>a.k.a mctekno a.k.a machkeys</sub> and I am an aspiring web developer!
 
 <!--
 **mctekno/mctekno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
