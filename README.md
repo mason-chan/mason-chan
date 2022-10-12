@@ -3,9 +3,9 @@
 My interest in coding branched from a particular hobby that I currently enjoy (you may be able to guess it from my projects 👀). Growing up with an artistical mindset and the need for aesthetics and visuals, I've worked on many things including art, technical drawings, and 3D modeling before my coding journey. I enjoy typing up minimalistic website designs and I'm interested in pursuing a career in web development.
 
 ### Tech I like to use
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30/>
 
 
 
