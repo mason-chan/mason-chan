@@ -1,6 +1,6 @@
-## Hi there 👋❕ My name is Mason and I am an aspiring web/front-end/full-stack developer!
+## Hi there 👋❕ My name is Mason and I am an software engineer!
 
-My interest in coding branched from a particular hobby that I currently enjoy (you may be able to guess it from my projects 👀). Growing up with an artistical mindset and the need for aesthetics and visuals, I've worked on many things including art, technical drawings, and 3D modeling before my coding journey. I enjoy typing up minimalistic website designs and I'm interested in pursuing a career in web development.
+My interest in coding branched from a particular hobby that I currently enjoy (you may be able to guess it from my projects 👀). Growing up with an artistical mindset and the need for aesthetics and visuals, I've worked on many things including art, technical drawings, and 3D modeling before my coding journey. I enjoy typing up minimalistic website designs and I'm looking forward to pursue a career in development. My current focus is front-end/web development with full-stack knowledge. 
 
 ### Tech I like to use
 <p align="left">
