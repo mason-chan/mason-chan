@@ -1,6 +1,6 @@
 ## Hi there 👋❕ My name is Mason and I am a software engineer focused on front end development!
 
-My interest in coding branched from a particular hobby that I currently enjoy (you may be able to guess it from my projects 👀). Growing up with an artistical mindset and the need for aesthetics and visuals, I've worked on many things with my background in arts, architecture, and mechanical engineering. I enjoy typing up minimalistic website designs and I'm looking forward to pursue a career in development. My current focus is front-end development but also have full-stack knowledge as well. 
+My interest in coding branched from a particular hobby that I currently enjoy (you may be able to guess it from my projects 👀). Growing up with an artistical mindset and the need for aesthetics and visuals, I've worked on many things with my background in arts, architecture, and mechanical engineering. I enjoy typing up minimalistic website designs and I'm looking forward to pursue a career as a software engineer. My current focus surrounds the JavaScript ecosystem and front-end development with working full-stack knowledge. 
 
 ### Tech I like to use
 <p align="left">
